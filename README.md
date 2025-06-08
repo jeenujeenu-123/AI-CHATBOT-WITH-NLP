@@ -1,11 +1,12 @@
 # NLP Chatbot with Semantic Understanding
 
 ## Developer Information
-**Name**: Tejas Padaki  
+**Name**:Shaik Burujula Jeevanbi  
 **Company**: CODTECH IT SOLUTIONS  
-**ID**: CT08EFO  
+**ID**: CTO6DL935 
 **Domain**: Python Programming  
-**Duration**: 17th Dec to 17th Jan  
+**Duration**:may 5th,2025 to june 20th,2025[6 weeks]
+**Mentor**:Neela Santhosh
 
 ---
 
@@ -97,9 +98,4 @@ This chatbot serves as a foundation for developing advanced conversational agent
 ##OutPut
 ![output](output.png)
 
-## Contact
-For any questions or feedback, feel free to reach out to:
 
-**Tejas Padaki**  
-**Company**: CODTECH IT SOLUTIONS  
-**Email**: [tejaspadaki33@gmail.com](mailto:tejaspadaki33@gmail.com)
